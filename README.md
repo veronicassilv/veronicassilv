@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veronicassilv
 - 👀 I’m interested in nodejs, python and php
 - 🌱 I’m currently learning python and nodejs
-- I like movies and series
+
 
 
 
